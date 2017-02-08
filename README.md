@@ -9,4 +9,4 @@ Trained LSTM models described in the paper 'Decision support from financial disc
 * Tensorflow 1.2.1
 
 # Usage #
-Run validation.py for abnormal classification of the provided validation data. 
+Run validation.py for abnormal classification of the provided validation data. You can change the target and the underlying model in validation.py.
