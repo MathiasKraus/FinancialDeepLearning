@@ -1,7 +1,7 @@
 # FinancialDeepLearning
-Decision support from financial disclosures with deep neural networks and transfer learning
+Decision support from financial disclosures with deep neural networks and transfer learning, as published in Decision Support Systems https://doi.org/10.1016/j.dss.2017.10.001
 
-Trained LSTM models described in the paper 'Decision support from financial disclosures with deep neural networks and transfer learning' by Mathias Kraus and Stefan Feuerriegel, University of Freiburg. 
+Trained LSTM models described in the paper 'Decision support from financial disclosures with deep neural networks and transfer learning' by Mathias Kraus and Stefan Feuerriegel, University of Freiburg.
 
 # Requirements #
 * Pandas >= 0.18.1
